@@ -9,3 +9,8 @@ colorBtn.addEventListener('click', function() {
     // Change the background color of the body
     document.body.style.backgroundColor = randomColor;
 });
+
+
+function fun(){
+    document.writeln("hello world")
+}
